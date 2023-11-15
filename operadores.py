@@ -36,7 +36,8 @@ print("banana" != "abacaxi")
 print(altura >= altura2)
 print(altura2 > altura3)
 
-
-
+"""
+teste aula ada git
+"""
 
 
