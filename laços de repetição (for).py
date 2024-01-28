@@ -14,3 +14,10 @@ for i in range(1, 4):
     soma = soma + nota
 
 print (soma / i)
+
+# Outro exemplo
+frutas = ["Maça", "pera", "uva"]
+for fruta in frutas :
+    print(fruta)
+# Assim você percorre a lista e vê todos os elementos
+    
