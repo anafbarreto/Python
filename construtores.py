@@ -18,3 +18,5 @@ class MinhaClasse3:
 objeto1 = MinhaClasse1()
 objeto2 = MinhaClasse2()
 objeto3 = MinhaClasse3('meu-objeto') # parametro que substitui o param na classe 3
+
+
